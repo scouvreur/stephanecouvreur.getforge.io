@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailPreset</key>
+	<string>ce05819814f0a2146da79087d38f5bab</string>
+	<key>detailSize</key>
+	<string>{720, -1}</string>
+	<key>images</key>
+	<dict>
+		<key>%S+XnoT+TwK%s+LZ6MmEkw</key>
+		<dict>
+			<key>index</key>
+			<integer>2</integer>
+			<key>modDate</key>
+			<date>2018-11-12T22:37:09Z</date>
+		</dict>
+		<key>1E4UtXBeTGKuG7AWUw54RQ</key>
+		<dict>
+			<key>index</key>
+			<integer>1</integer>
+			<key>modDate</key>
+			<date>2018-11-17T21:13:33Z</date>
+		</dict>
+		<key>9LSFfEFeToiWi3n7LYoaNw</key>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>modDate</key>
+			<date>2018-11-12T22:47:17Z</date>
+		</dict>
+	</dict>
+	<key>thumbPreset</key>
+	<string>ce05819814f0a2146da79087d38f5bab</string>
+	<key>thumbSize</key>
+	<string>{260, -1}</string>
+	<key>version</key>
+	<integer>200</integer>
+</dict>
+</plist>
